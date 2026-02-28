@@ -1,0 +1,51 @@
+﻿YOUR NAME
+Email: your.email@example.com | Phone: (555) 123-4567 | GitHub: github.com/yourusername | LinkedIn: linkedin.com/in/yourprofile
+PROFESSIONAL SUMMARY
+Versatile software developer with 3+ years of experience in full-stack development, IoT/embedded systems, and blockchain technologies. Proven track record of building innovative applications including trading platforms, data analytics tools, and hardware-integrated solutions. Proficient in Java, React, Python, and embedded systems programming with Arduino and ESP32. Strong foundation in both web development and hardware engineering with a focus on creating practical, scalable solutions.
+TECHNICAL SKILLS
+Programming Languages: Java, JavaScript (React, Node.js), Python, C/C++ (Arduino/ESP32)
+Web Development: React.js, HTML5, CSS3, RESTful APIs, WebSockets, Responsive Design
+Blockchain & Crypto: Solana, Smart Contracts, Cryptocurrency Mining, Bitcoin Protocol
+Hardware & IoT: ESP32, Arduino, Sensors (Temperature, Humidity, Motion), Firmware Development, Robotics
+Tools & Frameworks: Git, VS Code, Arduino IDE, PlatformIO, npm, Docker
+Data & Analytics: Data Analysis, Trading Algorithms, Market Data Processing
+KEY PROJECTS
+Cryptocurrency Trading Web Application
+* Developed a real-time cryptocurrency trading platform using React for frontend and WebSocket connections for live market data
+* Implemented data analytics dashboard displaying trading patterns, price movements, and portfolio performance metrics
+* Integrated responsive design ensuring seamless experience across desktop, tablet, and mobile devices
+* Technologies: React, JavaScript, Chart.js, RESTful APIs, WebSockets
+Solana Smart Contract & dApp Development
+* Built decentralized applications on Solana blockchain with custom smart contracts for token management
+* Developed frontend interfaces using React to interact with blockchain smart contracts via Solana Web3.js
+* Technologies: Solana, Rust, React, Web3.js, Phantom Wallet Integration
+ESP32 Cryptocurrency Mining System
+* Engineered custom firmware for ESP32 microcontroller to perform cryptocurrency mining operations
+* Developed Python-based Bitcoin solo miner with optimized hashing algorithms for performance
+* Technologies: ESP32, C/C++, Python, Bitcoin Protocol, SHA-256 Hashing
+ESP32 Weather Station & Robotics Platform
+* Designed and programmed ESP32-based weather monitoring system with DHT22, BMP280, and rain sensors
+* Created web interface for real-time sensor data visualization and historical data logging
+* Developed robotics applications with motor control, sensor integration, and autonomous navigation
+* Technologies: ESP32, Arduino, Various Sensors, MQTT, WebSockets, React Dashboard
+Java Desktop & Mobile Applications
+* Built multiple Java applications including data management systems, utility tools, and mobile apps
+* Implemented object-oriented design patterns, MVC architecture, and database integration with SQLite
+* Technologies: Java, JavaFX, Android SDK, SQLite, REST API Integration
+Financial Data Analytics Platform
+* Developed comprehensive data analytics application for processing and visualizing financial market data
+* Implemented algorithms for trend analysis, pattern recognition, and predictive modeling
+* Technologies: Python, Pandas, NumPy, Matplotlib, Machine Learning Libraries
+PROFESSIONAL EXPERIENCE
+Freelance Software Developer
+Self-Employed | 2021 - Present
+* Delivered custom software solutions for clients including web applications, IoT systems, and data analytics tools
+* Specialized in full-stack development with React, Node.js, and integration with hardware platforms
+* Managed complete project lifecycle from requirements gathering to deployment and maintenance
+* Maintained strong client relationships with 100% project satisfaction rate
+EDUCATION & CERTIFICATIONS
+[Your Degree] in [Your Field]
+[University Name] | [Graduation Year]
+* W3Schools Certifications: HTML, CSS, JavaScript, React
+* Certified Ethical Hacker (CEH) - In Progress
+* Various online courses in blockchain development, embedded systems, and data science

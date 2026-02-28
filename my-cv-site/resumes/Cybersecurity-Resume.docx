@@ -1,0 +1,69 @@
+﻿YOUR NAME
+Email: your.email@example.com | Phone: (555) 123-4567 | GitHub: github.com/yourusername | LinkedIn: linkedin.com/in/yourprofile
+PROFESSIONAL SUMMARY
+Cybersecurity professional with proven track record in bug bounty hunting, security auditing, and penetration testing. Successfully identified and reported critical vulnerabilities for major DeFi platforms including Raydium.io. Expertise in hardware security research using Flipper Zero and ESP32, combined with strong offensive security skills in web application and blockchain security. Experienced in conducting security audits for local businesses and educating clients on digital security hygiene. Proficient in Kali Linux, Parrot OS, and comprehensive penetration testing methodologies. Currently pursuing CEH certification to formalize extensive hands-on experience.
+TECHNICAL SKILLS
+Security Distributions: Kali Linux, Parrot OS, Ubuntu Security Tools
+Penetration Testing Tools: Metasploit, Burp Suite Professional, OWASP ZAP, Nmap, Wireshark, Nikto, SQLmap, John the Ripper
+Hardware Security: Flipper Zero, ESP32 Penetration Testing, IoT Security, Firmware Analysis, RFID/NFC Exploitation
+Web Application Security: OWASP Top 10, Bug Bounty Hunting, SQL Injection, XSS, CSRF, Authentication Bypass, API Security Testing
+Blockchain Security: Smart Contract Auditing, Solana Security, DeFi Protocol Analysis, Cryptocurrency Security
+Programming & Scripting: Python (Security Automation), Bash Scripting, C/C++ (Firmware), JavaScript, SQL
+Network Security: WiFi Penetration Testing, Network Scanning, Traffic Analysis, Wireless Protocol Exploitation
+Additional Skills: Security Awareness Training, Technical Documentation, Vulnerability Reporting, Data Analytics for Security
+PROFESSIONAL EXPERIENCE
+Freelance Security Consultant & Bug Bounty Hunter
+Self-Employed | 2021 - Present
+* Successfully identified and reported critical security vulnerabilities for Raydium.io DeFi platform through bug bounty program
+* Conducted comprehensive security audits for local businesses including penetration testing, vulnerability assessments, and remediation planning
+* Provided digital security hygiene training to clients, educating them on threat landscape, best practices, and incident response procedures
+* Developed custom security testing tools and automation scripts using Python and Bash for efficient vulnerability discovery
+* Performed web application security assessments identifying OWASP Top 10 vulnerabilities and providing detailed remediation reports
+* Maintained ethical standards and responsible disclosure practices across all security research activities
+KEY SECURITY ACHIEVEMENTS
+Bug Bounty: Raydium.io DeFi Platform
+* Discovered and responsibly disclosed critical vulnerabilities in Raydium.io, a major Solana-based DeFi protocol
+* Conducted thorough smart contract analysis and identified potential attack vectors in automated market maker (AMM) logic
+* Provided detailed vulnerability reports with proof-of-concept demonstrations and remediation recommendations
+Security Audits for Local Businesses
+* Executed full-scope security assessments including network penetration testing, web application testing, and social engineering evaluations
+* Delivered comprehensive audit reports with risk ratings, executive summaries, and technical remediation guidance
+* Followed up with clients to verify vulnerability remediation and provide ongoing security consultation
+Digital Security Hygiene Training & Education
+* Designed and delivered security awareness training programs covering password management, phishing prevention, and secure browsing habits
+* Educated clients on implementing multi-factor authentication, encrypted communications, and secure data handling procedures
+* Created custom security documentation and guidelines tailored to each organization's threat profile and risk tolerance
+SECURITY RESEARCH & TECHNICAL PROJECTS
+Flipper Zero Security Research Platform
+* Developed custom firmware and applications for Flipper Zero multi-tool security research device
+* Conducted wireless security assessments including RFID/NFC cloning, IR signal analysis, and sub-GHz protocol reverse engineering
+* Technologies: Flipper Zero, C, Python, RF Protocol Analysis, Hardware Hacking
+ESP32 Penetration Testing Toolkit
+* Engineered custom ESP32 firmware for WiFi deauthentication attacks, packet sniffing, and network reconnaissance
+* Built portable penetration testing devices with integrated OLED displays for field deployment during security assessments
+* Technologies: ESP32, C/C++, WiFi Protocol Analysis, Packet Injection, Wireless Security
+Secure Trading Tools & Data Analytics Platform
+* Developed secure trading automation tools with emphasis on API security, encrypted credential storage, and secure data transmission
+* Built data analytics platform for cryptocurrency trading with integrated security monitoring and anomaly detection
+* Technologies: Python, Secure API Integration, Encryption, Real-time Data Analysis
+Blockchain & Smart Contract Security Analysis
+* Performed security audits of Solana smart contracts identifying reentrancy, integer overflow, and access control vulnerabilities
+* Analyzed DeFi protocol architecture for potential attack vectors including flash loan exploits and oracle manipulation
+* Technologies: Solana, Rust, Smart Contract Analysis Tools, DeFi Security
+Security Automation & Custom Tooling
+* Developed Python-based automated reconnaissance and vulnerability scanning framework for penetration testing workflows
+* Created custom Bash scripts for Linux security hardening, log analysis, and incident response automation
+* Technologies: Python, Bash, Kali Linux, Parrot OS, Custom Exploit Development
+EDUCATION & CERTIFICATIONS
+[Your Degree] in [Your Field]
+[University Name] | [Graduation Year]
+* Certified Ethical Hacker (CEH) - In Progress (Expected 2025)
+* W3Schools Certifications: Web Security Fundamentals, JavaScript, HTML5
+* Continuous education in penetration testing methodologies, cryptography, and security frameworks
+* Active participation in bug bounty programs and cybersecurity community forums
+PROFESSIONAL COMPETENCIES
+* Penetration Testing Methodology: PTES, OWASP Testing Guide, NIST SP 800-115
+* Vulnerability Assessment & Management: CVE analysis, CVSS scoring, risk prioritization
+* Security Documentation: Detailed penetration testing reports, executive summaries, remediation guidance
+* Client Communication: Translating technical findings into business impact for stakeholders
+* Ethical Standards: Responsible disclosure, maintaining confidentiality, adherence to rules of engagement
