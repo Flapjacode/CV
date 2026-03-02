@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programming Resume - Your Name</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #000;
+            background: #fff;
+            padding: 40px 20px;
+        }
+
+        .resume-container {
+            max-width: 850px;
+            margin: 0 auto;
+            background: white;
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #000;
+        }
+
+        h1 {
+            font-size: 28px;
+            font-weight: bold;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+        }
+
+        .contact-info {
+            font-size: 11px;
+            color: #333;
+        }
+
+        /* Sections */
+        section {
+            margin-bottom: 25px;
+        }
+
+        h2 {
+            font-size: 14px;
+            font-weight: bold;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            padding-bottom: 5px;
+            border-bottom: 1px solid #000;
+        }
+
+        h3 {
+            font-size: 12px;
+            font-weight: bold;
+            margin-bottom: 5px;
+            margin-top: 12px;
+        }
+
+        .job-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 3px;
+        }
+
+        .job-title {
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .job-date {
+            font-size: 11px;
+            font-style: italic;
+            color: #333;
+        }
+
+        .company {
+            font-size: 11px;
+            font-style: italic;
+            color: #555;
+            margin-bottom: 8px;
+        }
+
+        /* Skills */
+        .skill-row {
+            margin-bottom: 8px;
+            font-size: 11px;
+        }
+
+        .skill-label {
+            font-weight: bold;
+            display: inline;
+        }
+
+        /* Lists */
+        ul {
+            margin-left: 20px;
+            margin-top: 5px;
+            margin-bottom: 10px;
+        }
+
+        li {
+            font-size: 11px;
+            margin-bottom: 5px;
+            line-height: 1.4;
+        }
+
+        /* Professional Summary */
+        .summary {
+            font-size: 11px;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+
+        /* Print Optimization */
+        @media print {
+            body {
+                padding: 0;
+                background: white;
+            }
+
+            .resume-container {
+                max-width: 100%;
+            }
+
+            section {
+                page-break-inside: avoid;
+            }
+
+            h2 {
+                page-break-after: avoid;
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            body {
+                padding: 20px 10px;
+            }
+
+            h1 {
+                font-size: 24px;
+            }
+
+            .job-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="resume-container">
+        <header>
+            <h1>YOUR NAME</h1>
+            <div class="contact-info">
+                Email: your.email@example.com | Phone: (555) 123-4567 | GitHub: github.com/yourusername | LinkedIn: linkedin.com/in/yourprofile
+            </div>
+        </header>
+
+        <section>
+            <h2>Professional Summary</h2>
+            <p class="summary">
+                Versatile software developer with 3+ years of experience in full-stack development, IoT/embedded systems, and blockchain technologies. Proven track record of building innovative applications including trading platforms, data analytics tools, and hardware-integrated solutions. Proficient in Java, React, Python, and embedded systems programming with Arduino and ESP32. Strong foundation in both web development and hardware engineering with a focus on creating practical, scalable solutions.
+            </p>
+        </section>
+
+        <section>
+            <h2>Technical Skills</h2>
+            <div class="skill-row">
+                <span class="skill-label">Programming Languages:</span> Java, JavaScript (React, Node.js), Python, C/C++ (Arduino/ESP32)
+            </div>
+            <div class="skill-row">
+                <span class="skill-label">Web Development:</span> React.js, HTML5, CSS3, RESTful APIs, WebSockets, Responsive Design
+            </div>
+            <div class="skill-row">
+                <span class="skill-label">Blockchain & Crypto:</span> Solana, Smart Contracts, Cryptocurrency Mining, Bitcoin Protocol
+            </div>
+            <div class="skill-row">
+                <span class="skill-label">Hardware & IoT:</span> ESP32, Arduino, Sensors (Temperature, Humidity, Motion), Firmware Development, Robotics
+            </div>
+            <div class="skill-row">
+                <span class="skill-label">Tools & Frameworks:</span> Git, VS Code, Arduino IDE, PlatformIO, npm, Docker
+            </div>
+            <div class="skill-row">
+                <span class="skill-label">Data & Analytics:</span> Data Analysis, Trading Algorithms, Market Data Processing
+            </div>
+        </section>
+
+        <section>
+            <h2>Key Projects</h2>
+            
+            <h3>Cryptocurrency Trading Web Application</h3>
+            <ul>
+                <li>Developed a real-time cryptocurrency trading platform using React for frontend and WebSocket connections for live market data</li>
+                <li>Implemented data analytics dashboard displaying trading patterns, price movements, and portfolio performance metrics</li>
+                <li>Integrated responsive design ensuring seamless experience across desktop, tablet, and mobile devices</li>
+                <li><em>Technologies: React, JavaScript, Chart.js, RESTful APIs, WebSockets</em></li>
+            </ul>
+
+            <h3>Solana Smart Contract & dApp Development</h3>
+            <ul>
+                <li>Built decentralized applications on Solana blockchain with custom smart contracts for token management</li>
+                <li>Developed frontend interfaces using React to interact with blockchain smart contracts via Solana Web3.js</li>
+                <li><em>Technologies: Solana, Rust, React, Web3.js, Phantom Wallet Integration</em></li>
+            </ul>
+
+            <h3>ESP32 Cryptocurrency Mining System</h3>
+            <ul>
+                <li>Engineered custom firmware for ESP32 microcontroller to perform cryptocurrency mining operations</li>
+                <li>Developed Python-based Bitcoin solo miner with optimized hashing algorithms for performance</li>
+                <li><em>Technologies: ESP32, C/C++, Python, Bitcoin Protocol, SHA-256 Hashing</em></li>
+            </ul>
+
+            <h3>ESP32 Weather Station & Robotics Platform</h3>
+            <ul>
+                <li>Designed and programmed ESP32-based weather monitoring system with DHT22, BMP280, and rain sensors</li>
+                <li>Created web interface for real-time sensor data visualization and historical data logging</li>
+                <li>Developed robotics applications with motor control, sensor integration, and autonomous navigation</li>
+                <li><em>Technologies: ESP32, Arduino, Various Sensors, MQTT, WebSockets, React Dashboard</em></li>
+            </ul>
+
+            <h3>Java Desktop & Mobile Applications</h3>
+            <ul>
+                <li>Built multiple Java applications including data management systems, utility tools, and mobile apps</li>
+                <li>Implemented object-oriented design patterns, MVC architecture, and database integration with SQLite</li>
+                <li><em>Technologies: Java, JavaFX, Android SDK, SQLite, REST API Integration</em></li>
+            </ul>
+
+            <h3>Financial Data Analytics Platform</h3>
+            <ul>
+                <li>Developed comprehensive data analytics application for processing and visualizing financial market data</li>
+                <li>Implemented algorithms for trend analysis, pattern recognition, and predictive modeling</li>
+                <li><em>Technologies: Python, Pandas, NumPy, Matplotlib, Machine Learning Libraries</em></li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Professional Experience</h2>
+            
+            <div class="job-header">
+                <span class="job-title">Freelance Software Developer</span>
+                <span class="job-date">2021 - Present</span>
+            </div>
+            <div class="company">Self-Employed</div>
+            <ul>
+                <li>Delivered custom software solutions for clients including web applications, IoT systems, and data analytics tools</li>
+                <li>Specialized in full-stack development with React, Node.js, and integration with hardware platforms</li>
+                <li>Managed complete project lifecycle from requirements gathering to deployment and maintenance</li>
+                <li>Maintained strong client relationships with 100% project satisfaction rate</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Education & Certifications</h2>
+            <h3>[Your Degree] in [Your Field]</h3>
+            <div class="company">[University Name] | [Graduation Year]</div>
+            <ul>
+                <li>W3Schools Certifications: HTML, CSS, JavaScript, React</li>
+                <li>Certified Ethical Hacker (CEH) - In Progress</li>
+                <li>Various online courses in blockchain development, embedded systems, and data science</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
